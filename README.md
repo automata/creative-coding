@@ -1,0 +1,44 @@
+Creative Coding studies
+===
+
+- Trigonometry
+- Basic shapes: Circles, ellipses, lissajous curves
+- Vectors
+- Mechanics
+  - Acceleration
+  - Velocity
+  - Collision detection
+  - Conservation of momentum
+  - Forward and inverse kinematics
+  - Boundaries and friction
+- Physics libraries  
+- Normalization
+- Linear interpolation
+- Map
+- Edge handling
+- Clamp
+- Balistics
+- Random
+- Perlin noise
+- Springs
+- Particles
+- Bezier curves
+- 3D modeling
+- 3D shaders
+- Easing and tweening
+- Line intersections
+- Fractals
+- Verlet integration
+- Autonomous agents
+- Cellular automata
+- Genetic algorithms
+- Neural networks
+- Lorenz attractors
+- Recursive patterns
+- Chaos and dynamic systems
+- Fluid simulation
+- Cell division
+- Brownian motion
+- Computational geometry
+  - Voronoi
+  - Delaunay
