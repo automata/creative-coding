@@ -1,6 +1,19 @@
 Creative Coding studies
 ===
 
+Using
+---
+
+```
+npm install
+grunt
+```
+
+Open your browser on http://localhost:5000
+
+Topics to cover
+---
+
 - Trigonometry
 - Basic shapes: Circles, ellipses, lissajous curves
 - Vectors
@@ -42,3 +55,9 @@ Creative Coding studies
 - Computational geometry
   - Voronoi
   - Delaunay
+
+References
+---
+
+- [Coding Math](https://www.youtube.com/user/codingmath)
+- [Nature of Code](http://natureofcode.com)
