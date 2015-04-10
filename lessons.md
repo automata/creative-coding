@@ -1,4 +1,4 @@
-00 Trigonometry
+01 Trigonometry
 ===
 
 - Important concept for graphics, games and animations.
@@ -8,4 +8,7 @@
 - The study of relationship between angles and the sides of the triangle
 
 ![Trigonometry](./img/trigonometry01.png)
+
+TODO: Add cos/tan graphics
+TODO: Talk about circles, ellipses movements and Lissajous curves
 

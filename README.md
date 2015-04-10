@@ -9,13 +9,15 @@ npm install
 grunt
 ```
 
-Open your browser on http://localhost:5000
+Open your browser on http://localhost:5000/src and click on the examples.
+
+Topics are discussed in the __lessons__ file.
 
 Topics to cover
 ---
 
 - Trigonometry
-- Basic shapes: Circles, ellipses, lissajous curves
+- Basic movements: Circles, ellipses, lissajous curves
 - Vectors
 - Mechanics
   - Acceleration
@@ -24,7 +26,7 @@ Topics to cover
   - Conservation of momentum
   - Forward and inverse kinematics
   - Boundaries and friction
-- Physics libraries  
+- Physics libraries
 - Normalization
 - Linear interpolation
 - Map
