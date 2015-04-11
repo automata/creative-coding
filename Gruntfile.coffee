@@ -1,8 +1,6 @@
 fs = require 'fs'
 
 srcDirs = fs.readdirSync 'src'
-console.log ({src: 'src/' + d + '/main.coffee', dest: 'src/' + d + "/main.js"} for d in srcDirs)
-
 
 module.exports = ->
   grunt = @
